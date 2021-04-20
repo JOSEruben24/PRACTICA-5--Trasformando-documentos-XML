@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="file:practica5.xsl"?>
+
+<automoviles>
+    
+    <autos>
+    <codigo>1</codigo>
+    <marca>Volkswagen</marca>
+    <año>2020</año>
+    <pais>ALEMANIA</pais>
+    <Cilindraje>8</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>2</codigo>
+    <marca>Nissan</marca>
+    <año>2002</año>
+    <pais>EUROPA</pais>
+    <Cilindraje>4</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>3</codigo>
+    <marca>Toyota</marca>
+    <año>2004</año>
+    <pais>JAPON</pais>
+    <Cilindraje>6</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>4</codigo>
+    <marca>KIA</marca>
+    <año>2015</año>
+    <pais>COREA</pais>
+    <Cilindraje>8</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>5</codigo>
+    <marca>Honda</marca>
+    <año>2006</año>
+    <pais>JAPON</pais>
+    <Cilindraje>4</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>6</codigo>
+    <marca>Mazda</marca>
+    <año>2016</año>
+    <pais>JAPON</pais>
+    <Cilindraje>6</Cilindraje>
+    </autos>
+    
+        <autos>
+    <codigo>7</codigo>
+    <marca>Volvo</marca>
+    <año>2008</año>
+    <pais>CHINA</pais>
+    <Cilindraje>8</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>8</codigo>
+    <marca>Hyundai</marca>
+    <año>2017</año>
+    <pais>COREA</pais>
+    <Cilindraje>4</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>9</codigo>
+    <marca>Ford</marca>
+    <año>2010</año>
+    <pais>EEUU</pais>
+    <Cilindraje>6</Cilindraje>
+    </autos>
+
+    <autos>
+    <codigo>10</codigo>
+    <marca>Suzuki</marca>
+    <año>2019</año>
+    <pais>JAPON</pais>
+    <Cilindraje>8</Cilindraje>
+    </autos>
+
+
+    <autos>
+    <codigo>11</codigo>
+    <marca>Chevrolet</marca>
+    <año>2018</año>
+    <pais>MEXICO</pais>
+    <Cilindraje>6</Cilindraje>
+    </autos>
+
+
+    <autos>
+    <codigo>12</codigo>
+    <marca>Ferrary</marca>
+    <año>2021</año>
+    <pais>ITALIA</pais>
+    <Cilindraje>8</Cilindraje>
+    </autos>
+
+</automoviles>

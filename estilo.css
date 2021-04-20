@@ -1,0 +1,50 @@
+body{
+	font-family: arial, helvetica;
+	background: #fcfcfc;
+   
+}
+
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #092327;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;
+	padding: 20px;
+	display: block;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+/* Banners 125x125 */
+#banners125 {
+	margin: 10px 0;
+	width:100%;
+	}
+	#banners125 ul {
+	padding:0;
+	margin:0;
+	list-style-type:none;
+	}
+	#banners125 ul li {
+	float: left;
+	margin:10px 0 0 10px;
+	display: inline;
+	}
+	#banners125 img {
+	display: block;
+	}
+
